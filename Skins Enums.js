@@ -1,4 +1,5 @@
-const Fonts = {
+const Game = {
+Fonts : {
 "Default Font":"m0_none",
 "Flaming Red":"m2_vnsllq",
 "Golden GOAT":"m1_nbkdsa",
@@ -6,8 +7,8 @@ const Fonts = {
 "Pretty Prism":"m5_iyrewa",
 "Seasoned Purple":"m4_lvnwos",
 "Violet Visonary":"m4_lsobnj",
-}
-const Characters = {
+},
+Characters : {
     "SirBotsalot":"a8zllcpdre",
     "BottyMcBotface":"a9egqgghed",
     "J5Alive":"a10aumsgjxn",
@@ -35,8 +36,8 @@ const Characters = {
     "Golden Molly":"a334_upkjkutj",
     "Jade Rabbit":"a78_fdlcjfny",
     "Dragon Rabbit":"a79_dufadjad",
-}
-const Hats = {
+},
+Hats : {
     "noHat":"h0",
     "Saucepan":"h1",
     "Plunger":"h2",
@@ -56,8 +57,8 @@ const Hats = {
     "Conical":"h95",
     "Emperor":"h96",
     "Noodle Box":"h98",    
-}
-const Colors = {
+},
+Colors : {
     "Red and Blue":"c0",
     "Ninja Blue":"c7",
     "Bronze":"c13",
@@ -74,13 +75,13 @@ const Colors = {
     "Raging Bull":"c215_cyefdgcx",
     "SmashFest":"c140_fjcmsgll",
     "Dark Moon":"c141_idslcjdf",
-}
-const Celebrations = {
+},
+Celebrations : {
     "Confetti":"p0",
     "Super Powerz":"p00_villain",
     "Blossoms":"p3",
-}
-const Wheels = {
+},
+Wheels : {
     "Gray Slicks":"w0",
     "Gray Grooves":"w34_lgjtjdel",
     "The Mac' Racers":"w113_olpdhduj",
@@ -89,8 +90,8 @@ const Wheels = {
     "SmashFest Slicks":"w26_gjgjgotg",
     "Kart Krusher Wheel":"w00_villain",
     "Dark Moon Slicks":"w27_ajyeplmnf",
-}
-const Toppers = {
+},
+Toppers : {
     "noTopper":"t0_none",
     "Red Flag":"t1_gsvh",
     "Blue Flag":"t2_vjmu",
@@ -113,4 +114,4 @@ const Toppers = {
     "Cricket Bat":"t83_skvmng",
     "Cricket Ball":"t82_edbhj",
     "Noodlebox":"t97_adkfmnvh",
-}
+}}
